@@ -16,7 +16,7 @@
 - 🌱 Currently exploring **AI** and **Reinforcement Learning**
 - 💻 Building full-stack projects with the **MERN stack**
 - 🧠 Simulating Ant robots with **MuJoCo** + training them using **Brax PPO**
-- 🤝 Contributing to Open Source (e.g., **Meshery**)
+- 🤝 Contributing to Open Source 
 
 ---
 
