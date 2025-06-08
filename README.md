@@ -5,15 +5,15 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=ECE+Student+%7C+Front-End+%26+MERN+Stack+Dev;Open+Source+Contributor+%7C+AI+Enthusiast;MuJoCo+%7C+Brax+%7C+Reinforcement+Learning;Ethical+Hacking+Learner+%7C+Tech+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Front-End+%26+MERN+Stack+Dev;Open+Source+Contributor+%7C+AI+Enthusiast;Tech+Explorer" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
 
-- 🎓 2nd Year B.Tech @ **Chhatrapati Shahuji Maharaj University** (ECE)
-- 🌱 Currently exploring **AI**, **Reinforcement Learning**, and **Ethical Hacking**
+- 🎓 3rd Year B.Tech @ **Chhatrapati Shahuji Maharaj University** 
+- 🌱 Currently exploring **AI** and **Reinforcement Learning**
 - 💻 Building full-stack projects with the **MERN stack**
 - 🧠 Simulating Ant robots with **MuJoCo** + training them using **Brax PPO**
 - 🤝 Contributing to Open Source (e.g., **Meshery**)
@@ -50,9 +50,9 @@
 ### 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aditya-verma"><img src="https://img.shields.io/badge/LinkedIn-Aditya%20Verma-blue?logo=linkedin&style=for-the-badge" /></a>
-  <a href="mailto:adityaverma@gmail.com"><img src="https://img.shields.io/badge/Gmail-adityaverma@gmail.com-D14836?logo=gmail&style=for-the-badge" /></a>
-  <a href="https://wa.me/91XXXXXXXXXX"><img src="https://img.shields.io/badge/WhatsApp-Message-25D366?logo=whatsapp&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/aditya-verma-3096b3249/"><img src="https://img.shields.io/badge/LinkedIn-Aditya%20Verma-blue?logo=linkedin&style=for-the-badge" /></a>
+  <a href="mailto:vaditya094@gmail.com"><img src="https://img.shields.io/badge/Gmail-adityaverma@gmail.com-D14836?logo=gmail&style=for-the-badge" /></a>
+  <a href="https://wa.me/917390068599"><img src="https://img.shields.io/badge/WhatsApp-Message-25D366?logo=whatsapp&style=for-the-badge" /></a>
 </p>
 
 ---
